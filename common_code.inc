@@ -14,3 +14,5 @@ if( $('input[name*=\'selected\']').is(':checked') ){
       }
     console.log('function running');                                                                                                                    
 }
+
+// test comment
